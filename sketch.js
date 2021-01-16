@@ -1,3 +1,5 @@
+//This is a test
+
 var trex,trex_image;
 
 var ground,ground_image;
